@@ -19,7 +19,8 @@ public class SeguradoPessoa extends Segurado implements Serializable{
 		this.renda = renda;
 		
 	}
-	
+
+
 	public LocalDate getDataNascimento() {
 		return getDataCriacao();
 	}

@@ -46,10 +46,6 @@ public class SeguradoEmpresa extends Segurado{
 	public void setEhLocadoraDeVeiculos(boolean ehLocadoraDeVeiculos) {
 		this.ehLocadoraDeVeiculos = ehLocadoraDeVeiculos;
 	}
-	
-	
-	
-	
-	
+
 	
 }

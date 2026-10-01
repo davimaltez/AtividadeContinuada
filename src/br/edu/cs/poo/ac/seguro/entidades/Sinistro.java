@@ -22,4 +22,4 @@ public class Sinistro implements Serializable {
     private BigDecimal valorSinistro;
     private TipoSinistro tipo;
 
-}
+}   
